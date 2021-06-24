@@ -30,7 +30,22 @@
   <li>Shared understanding and consensus</li>
   <li>Treasure friendship</li>
 </ul>
+<hr>
 
 <h4 align="left">Hobbies</h4>
 <code>Reading</code> <code>Drawing</code> <code>Doodling</code> <code>Sketching</code> <code>Travelling</code> <code>Playing Guitar</code> <code>Playing Drum</code> <code>Swimming</code> <code>Running</code> <code>Badminton</code> <code>Watching Anime</code> <code>Watching Movies</code>
 <hr>
+
+<h4 align="left">Video Games</h4>
+<code>Forlands</code> <code>Harvest Moon A Wonderful Life</code> <code>Mobile Legends</code> <code>Pokemon</code> <code>Dota 2</code> <code>Run RPG</code> <code>Crossfire</code> <code>NBA 2K Sports</code>
+ <hr>
+  
+<h4 align="left">Most Viewed Topics</h4>
+<img src="https://raw.githubusercontent.com/normanagustin-gonzales/normanagustin-gonzales/main/algebra-2.svg">
+<img src="https://raw.githubusercontent.com/normanagustin-gonzales/normanagustin-gonzales/main/trigonometry.svg">
+<img src="https://raw.githubusercontent.com/normanagustin-gonzales/normanagustin-gonzales/main/algebra.svg">
+<hr>
+
+<h4 align="left">Github Status</h4>
+<img src="https://raw.githubusercontent.com/normanagustin-gonzales/normanagustin-gonzales/main/grade.svg">
+<img src="https://raw.githubusercontent.com/normanagustin-gonzales/normanagustin-gonzales/main/subject.svg">
