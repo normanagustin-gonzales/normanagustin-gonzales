@@ -2,7 +2,11 @@
 
 <p align="center">Currently saying yes to new adventures.</p>
 
-<p align="center"><span><img src="https://github.com/normanagustin-gonzales/normanagustin-gonzales/raw/main/badge-1.jpg"></span>  <span><img src="https://github.com/normanagustin-gonzales/normanagustin-gonzales/raw/main/badge-2.jpg"></span>  <span><img src="https://github.com/normanagustin-gonzales/normanagustin-gonzales/raw/main/badge-3.jpg"></span> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined%202%20Years%20Ago-Temporary%20Open-blue">
+  <img src="https://img.shields.io/badge/Friends-117-blue">
+  <img src="https://img.shields.io/badge/Visitors-164-blue">
+</p>
 
 <hr>
 
