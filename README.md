@@ -6,16 +6,17 @@
 
 <h4 align="left">About Me</h4>
 <ul>
-  <li>📛 Nickname: <strong>Norman</strong></li>
-  <li>👨 Gender: <strong>Male</strong></li>
-  <li>🎂 Birthday: <strong>July 05, 2005</strong></li>
+  <li>📛 <strong>Nickname</strong>: Norman</li>
+  <li>👨 <strong>Gender</strong>: Male</li>
+  <li>🎂 <strong>Birthday</strong>: July 05, 2005</li>
 </ul>
 <hr>
 
 <h4 align="left">Education</h4>
 <ul>
-  <li>🏫 School: <strong>Philippine Science High School Main-Campus</strong></li>
-  <li>📃 Course: <strong>Science, Technology, Engineering, and Mathematics</strong></li>
+  <li>🏫 <strong>School</strong>: Philippine Science High School Main-Campus</li>
+  <li>📃 <strong>Strand</strong>: Science, Technology, Engineering, and Mathematics</li>
+  <li>📃 <strong>Course</strong>: Bioengineering, Accountancy</li>
 </ul>
 <hr>
 
