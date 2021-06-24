@@ -16,7 +16,7 @@
 <ul>
   <li>🏫 <strong>School</strong>: Philippine Science High School Main-Campus</li>
   <li>📃 <strong>Strand</strong>: Science, Technology, Engineering, and Mathematics</li>
-  <li>📃 <strong>Course</strong>: Bioengineering, Accountancy</li>
+  <li>📃 <strong>Course</strong>: Bioengineering</li>
 </ul>
 <hr>
 
