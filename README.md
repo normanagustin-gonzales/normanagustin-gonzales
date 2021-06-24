@@ -2,6 +2,8 @@
 
 <p align="center">Currently saying yes to new adventures.</p>
 
+<p align="center"><span><img src="https://github.com/normanagustin-gonzales/normanagustin-gonzales/raw/main/badge-1.jpg"></span>  <span><img src="https://github.com/normanagustin-gonzales/normanagustin-gonzales/raw/main/badge-2.jpg"></span>  <span><img src="https://github.com/normanagustin-gonzales/normanagustin-gonzales/raw/main/badge-3.jpg"></span> </p>
+
 <hr>
 
 <h4 align="left">About Me</h4>
