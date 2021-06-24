@@ -1,16 +1,21 @@
-### Hi there 👋
+![cover_photo](https://github.com/normanagustin-gonzales/normanagustin-gonzales/blob/main/cover.jpg)
 
-<!--
-**normanagustin-gonzales/normanagustin-gonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Currently saying yes to new adventures.</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="left">About Me</h4>
+<ul>
+  <li>📛 Nickname: <strong>Norman</strong></li>
+  <li>👨 Gender: <strong>Male</strong></li>
+  <li>🎂 Birthday: <strong>July 05, 2005</strong></li>
+</ul>
+<hr>
+
+<h4 align="left">Education</h4>
+<ul>
+  <li>🏫 School: <strong>Philippine Science High School Main-Campus</strong></li>
+  <li>📃 Course: <strong>Science, Technology, Engineering, and Mathematics</strong></li>
+</ul>
+<hr>
+
